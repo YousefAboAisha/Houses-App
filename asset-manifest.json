@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Houses-App/static/css/main.9575593d.chunk.css",
+    "main.css": "/Houses-App/static/css/main.a3fa56cc.chunk.css",
     "main.js": "/Houses-App/static/js/main.82b2ff59.chunk.js",
     "main.js.map": "/Houses-App/static/js/main.82b2ff59.chunk.js.map",
     "runtime-main.js": "/Houses-App/static/js/runtime-main.c0f87c9b.js",
@@ -10,7 +10,7 @@
     "static/js/3.9ed636b0.chunk.js": "/Houses-App/static/js/3.9ed636b0.chunk.js",
     "static/js/3.9ed636b0.chunk.js.map": "/Houses-App/static/js/3.9ed636b0.chunk.js.map",
     "index.html": "/Houses-App/index.html",
-    "static/css/main.9575593d.chunk.css.map": "/Houses-App/static/css/main.9575593d.chunk.css.map",
+    "static/css/main.a3fa56cc.chunk.css.map": "/Houses-App/static/css/main.a3fa56cc.chunk.css.map",
     "static/js/2.0e47fac9.chunk.js.LICENSE.txt": "/Houses-App/static/js/2.0e47fac9.chunk.js.LICENSE.txt",
     "static/media/1.05b20acb.jpg": "/Houses-App/static/media/1.05b20acb.jpg",
     "static/media/2.4a8bdd19.jpg": "/Houses-App/static/media/2.4a8bdd19.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0f87c9b.js",
     "static/js/2.0e47fac9.chunk.js",
-    "static/css/main.9575593d.chunk.css",
+    "static/css/main.a3fa56cc.chunk.css",
     "static/js/main.82b2ff59.chunk.js"
   ]
 }
