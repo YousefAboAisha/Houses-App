@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Houses-App/static/css/main.a3fa56cc.chunk.css",
-    "main.js": "/Houses-App/static/js/main.82b2ff59.chunk.js",
-    "main.js.map": "/Houses-App/static/js/main.82b2ff59.chunk.js.map",
-    "runtime-main.js": "/Houses-App/static/js/runtime-main.c0f87c9b.js",
-    "runtime-main.js.map": "/Houses-App/static/js/runtime-main.c0f87c9b.js.map",
-    "static/js/2.0e47fac9.chunk.js": "/Houses-App/static/js/2.0e47fac9.chunk.js",
-    "static/js/2.0e47fac9.chunk.js.map": "/Houses-App/static/js/2.0e47fac9.chunk.js.map",
-    "static/js/3.9ed636b0.chunk.js": "/Houses-App/static/js/3.9ed636b0.chunk.js",
-    "static/js/3.9ed636b0.chunk.js.map": "/Houses-App/static/js/3.9ed636b0.chunk.js.map",
+    "main.css": "/Houses-App/static/css/main.5f3cd5d7.chunk.css",
+    "main.js": "/Houses-App/static/js/main.4052b5a2.chunk.js",
+    "main.js.map": "/Houses-App/static/js/main.4052b5a2.chunk.js.map",
+    "runtime-main.js": "/Houses-App/static/js/runtime-main.08f37436.js",
+    "runtime-main.js.map": "/Houses-App/static/js/runtime-main.08f37436.js.map",
+    "static/css/2.ee779822.chunk.css": "/Houses-App/static/css/2.ee779822.chunk.css",
+    "static/js/2.800d71c3.chunk.js": "/Houses-App/static/js/2.800d71c3.chunk.js",
+    "static/js/2.800d71c3.chunk.js.map": "/Houses-App/static/js/2.800d71c3.chunk.js.map",
+    "static/js/3.3a38d705.chunk.js": "/Houses-App/static/js/3.3a38d705.chunk.js",
+    "static/js/3.3a38d705.chunk.js.map": "/Houses-App/static/js/3.3a38d705.chunk.js.map",
     "index.html": "/Houses-App/index.html",
-    "static/css/main.a3fa56cc.chunk.css.map": "/Houses-App/static/css/main.a3fa56cc.chunk.css.map",
-    "static/js/2.0e47fac9.chunk.js.LICENSE.txt": "/Houses-App/static/js/2.0e47fac9.chunk.js.LICENSE.txt",
+    "static/css/2.ee779822.chunk.css.map": "/Houses-App/static/css/2.ee779822.chunk.css.map",
+    "static/css/main.5f3cd5d7.chunk.css.map": "/Houses-App/static/css/main.5f3cd5d7.chunk.css.map",
+    "static/js/2.800d71c3.chunk.js.LICENSE.txt": "/Houses-App/static/js/2.800d71c3.chunk.js.LICENSE.txt",
     "static/media/1.05b20acb.jpg": "/Houses-App/static/media/1.05b20acb.jpg",
     "static/media/2.4a8bdd19.jpg": "/Houses-App/static/media/2.4a8bdd19.jpg",
     "static/media/4.7476482e.jpg": "/Houses-App/static/media/4.7476482e.jpg",
@@ -20,9 +22,10 @@
     "static/media/view.module.css": "/Houses-App/static/media/view.8f04b053.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0f87c9b.js",
-    "static/js/2.0e47fac9.chunk.js",
-    "static/css/main.a3fa56cc.chunk.css",
-    "static/js/main.82b2ff59.chunk.js"
+    "static/js/runtime-main.08f37436.js",
+    "static/css/2.ee779822.chunk.css",
+    "static/js/2.800d71c3.chunk.js",
+    "static/css/main.5f3cd5d7.chunk.css",
+    "static/js/main.4052b5a2.chunk.js"
   ]
 }
